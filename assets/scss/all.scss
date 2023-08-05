@@ -1,0 +1,13 @@
+// font icon
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Roboto:ital,wght@0,400;0,700;0,900;1,400;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,500,0,200');
+// 基本配置
+@import './helpers/variables';
+@import './helpers/utilities';
+@import './mixin/mixin';
+
+@import './base/reset';
+@import './base/fontStyle';
+@import './layout/nav';
+@import './layout/footer';
+@import './pages/index';
